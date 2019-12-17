@@ -18,6 +18,8 @@
 
 - [逃犯条例](./Theinitium/逃犯条例)
 
+- [2020台湾大选](./Theinitium/2020台湾大选)
+
 - [异乡人](./Theinitium/异乡人)
 
 - [生死观](./Theinitium/生死观)
